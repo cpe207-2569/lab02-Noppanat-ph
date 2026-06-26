@@ -1,0 +1,44 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 15px;
+  background-color: rgb(150, 220, 255);
+}
+
+body {
+  background-color: rgb(255, 243, 225);
+  margin: 0;
+  text-align: center;
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.boldFont {
+  font-weight: 800;
+}
+
+.menu {
+  border: solid rgb(118, 0, 0);
+  padding: 8px;
+  background-color: white;
+}
+
+.menuBar {
+  text-align: center;
+  margin: 0;
+  padding: 10px 0;
+  background-color: rgb(205, 230, 255);
+}
+
+div {
+  width: 50%;
+  border: solid goldenrod;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+  padding: 0% 10%;
+  background-color: whitesmoke;
+}
