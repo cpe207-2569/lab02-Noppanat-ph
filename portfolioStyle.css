@@ -22,7 +22,7 @@ body {
 
 .menu {
   border: solid rgb(118, 0, 0);
-  padding: 8px;
+  padding: 10px 20px;
   background-color: white;
 }
 
@@ -41,4 +41,11 @@ div {
   margin-bottom: 1%;
   padding: 0% 10%;
   background-color: whitesmoke;
+}
+
+.imageCenter {
+  margin-left: auto;
+  display: block;
+  margin-right: auto;
+  border: solid goldenrod;
 }
